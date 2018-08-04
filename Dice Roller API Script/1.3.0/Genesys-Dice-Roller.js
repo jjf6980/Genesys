@@ -1262,7 +1262,7 @@ eote.defaults = {
             A: "https://i.imgur.com/mHG4eh2.png",
             AA: "https://i.imgur.com/c4Zbeod.png",
             S: "https://i.imgur.com/wSsxsjb.png",
-            SA: "https://i.imgur.com/v4cUwLN.png",
+            SA: "https://i.imgur.com/x3gPga6.png",
             SS: "https://i.imgur.com/SiEZtMf.png"
         },
         BOOST: {
